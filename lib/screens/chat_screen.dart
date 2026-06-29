@@ -706,3 +706,4 @@ class ChatScreen extends StatelessWidget {
     );
   }
 }
+

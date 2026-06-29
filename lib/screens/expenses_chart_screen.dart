@@ -422,3 +422,4 @@ class _ExpensesChartPainter extends CustomPainter {
     return points;
   }
 }
+
